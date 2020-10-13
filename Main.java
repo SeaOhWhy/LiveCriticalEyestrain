@@ -1,13 +1,15 @@
 class Main {
-  public static void main(String[] args)
-   {
-     int x = 22;
+  public static void main(String[] args) {
+     int x = 20;
+     int y = 16;
+     if (y < x )
+     System.out.println("y is less than x);
 
-     while(x == 22){
-       //if x is equal to 22 then 
-      System.out.println(" x is equal to 22");
-      x++;
+     }else(y<=x){
 
-     }
-  }
-}
+  
+       System.out.println("y is less than or equal to x");
+
+     }else if(y!=x)
+{
+     System.out.println(" y is not equal to x");
