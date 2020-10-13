@@ -9,11 +9,7 @@ class Main {
      }else{
        (y > x)
        // block of code to be executed if y > x is false
-       System.out.println("y is less than or equal to x");
-     }else if (y != x){
-       
-     }
-     System.out.println(" y is not equal to x");
-     
+       System.out.println("y is less than  x");
+    
 
      
