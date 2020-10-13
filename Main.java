@@ -3,13 +3,10 @@ class Main {
      int x = 20;
      int y = 16;
      if (y < x )
+     //if condition is true then
      System.out.println("y is less than x);
 
-     }else(y<=x){
-
-  
-       System.out.println("y is less than or equal to x");
-
-     }else if(y!=x)
-{
-     System.out.println(" y is not equal to x");
+     }else{
+       ()
+     //if condition is false then
+   System.out.println("y is less than or equal to x");
